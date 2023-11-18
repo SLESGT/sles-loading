@@ -8,6 +8,4 @@ Advanced QB LoadingScreen for FiveM (QBCore // ESX // VRP)
 
 # Video & Screenshot
 
-![Uploading image.png…]()
-
-
+![asssd](https://github.com/SLESGT/sles-loading/assets/151367115/5d604e1c-1dc7-4714-8613-e2970cfa7c23)
